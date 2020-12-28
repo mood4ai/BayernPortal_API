@@ -7,4 +7,4 @@ Lösung:
 Entwicklung eigener Scraping-Funktionen.
 
 
-![grafik](https://user-images.githubusercontent.com/66714895/103211122-964a9100-4907-11eb-8463-2ca41cb8b07e.png)
+![grafik](https://user-images.githubusercontent.com/66714895/103211231-f17c8380-4907-11eb-865e-4ba9119c9491.png)
